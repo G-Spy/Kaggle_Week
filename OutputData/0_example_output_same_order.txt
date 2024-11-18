@@ -1,0 +1,5 @@
+4 
+L 3 animals fear war cruel
+P 2 smile woman
+P 2 woman pearl
+L 4 fear raft survivors
